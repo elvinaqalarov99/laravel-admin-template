@@ -11,11 +11,18 @@
     content: "\00a0";
 }
 
-.flag-icon-ge {
-    background-image: url('/images/flags/ge.svg');
-}
-
 .flag-icon-en {
     background-image: url('/images/flags/gb.svg');
 }
 
+.flag-icon-ru {
+    background-image: url('/images/flags/ru.svg');
+}
+
+.flag-icon-az {
+    background-image: url('/images/flags/az.svg');
+}
+
+.flag-icon-tr {
+    background-image: url('/images/flags/tr.svg');
+}
