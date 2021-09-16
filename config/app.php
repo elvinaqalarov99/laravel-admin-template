@@ -80,9 +80,8 @@ return [
     |
     */
 
-    'locale' => 'ge',
+    'locale' => 'en',
     'locales' => [
-        'ge' => 'Georgian',
         'en' => 'English',
     ],
     /*
@@ -96,7 +95,7 @@ return [
     |
     */
 
-    'fallback_locale' => 'ge',
+    'fallback_locale' => 'en',
 
     /*
     |--------------------------------------------------------------------------
