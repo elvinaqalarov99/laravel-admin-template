@@ -17,7 +17,7 @@
 
 <body>
     @include('layout/header')
-    @yield('content')
+    <main>@yield('content')</main>
     @include('layout/footer')
     <script src="{{ mix('js/app.js') }}"></script>
 </body>
